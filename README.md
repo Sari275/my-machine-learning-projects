@@ -7,5 +7,5 @@ Repository for all my Machine Learning (COEN 240) projects under Prof. Alex Suma
 - Project 4  *Implement the K-means unsupervised learning algorithm and Use the simplified Iris dataset to test your code. Show the cluster assignment of each sample and the two centroids in a plot.
 - Project 5  *Implement dimensionality reduction using PCA with eigen decomposition.
 - Project 6  *Build a fully-connected neural network (MLP) to provide some obstacle avoidance capability in Robo-Car . The controller receives distance information from the sensor and sends the status to the MLP. The MLP supplies the command to the controller, which in turn controls the motor. 
-- Final Project  *Select a machine learning topic that interests you. Find high quality references to support your research topic. Find high quality references to support your research topic (journal/conference papers, textbooks, lectures, podcasts etc). Write & run your code to solve a specific problem related to your topic
+- Final Project  *Select a machine learning topic that interests you. Find high quality references to support your research topic (journal/conference papers, textbooks, lectures, podcasts etc). Write & run your code to solve a specific problem related to your topic.
 
